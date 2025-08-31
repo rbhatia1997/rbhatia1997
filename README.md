@@ -1,6 +1,6 @@
 # Hey, I'm Ronak 👋
 
-I’m a **Product Manager** working on **HPC/AI systems at HPE** and building cool things in the **AI + music space**.  
+I’m a **Product Manager** working on **HPC/AI systems at HPE** and building cool things in the **music space** on the side.
 
 - 🖥 Architecting GPU platforms for NVIDIA H100, H200, and GB200 NVL72  
 - 🎶 Co-founder of **[LYOKO](https://lyoko.com)** – events, merch, and VR experiences  
